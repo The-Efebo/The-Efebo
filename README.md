@@ -1,6 +1,6 @@
 <div align = "center">
       <h1 >🎓 Enthusiast of Computer Science 💻.<br></h1>
-                    <img src="giphy.gif" width="200px>
+                    <img src="giphy.gif" width="500px>
 </div>  
 <div>
       <h3 align = "center">"Welcome to this code, where Python is forged in the binary fires. I'm a Pythonista novice, ready to shred ignorance and wield the blade of code. Dive in if you dare, and embrace the inferno of scripts.<br>
