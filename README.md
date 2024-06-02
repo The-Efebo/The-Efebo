@@ -4,7 +4,8 @@
 </div>
 
 <div>
-    <h3 align="center">"Welcome to this code, where Python is forged in the binary fires. I'm a Pythonista novice, ready to shred ignorance and wield the blade of code. Dive in if you dare, and embrace the inferno of scripts.<br>
+    <h3 align="center">"Welcome to this code, where Python is forged in the binary fires. I'm a Pythonista novice, ready to shred ignorance and wield the blade of code. Dive in if you dare, and embrace the inferno of scripts.
+        <br><br>
     <i>"Programmer is someone who solves a problem you didn't know you had in a way you don't understand."</i></h3>
 </div>
 
