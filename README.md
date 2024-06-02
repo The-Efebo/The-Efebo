@@ -1,6 +1,6 @@
 <div align = "center">
       <h1 >🎓 Enthusiast of Computer Science 💻.<br></h1>
-                    <img src="capa.gif">
+                    <img src="giphy.gif">
 </div>  
 <div>
       <h3 align = "center">I'm a pythonista beginner, so i'm excited to upgrade my skillset by developing and storing code here.<br>
