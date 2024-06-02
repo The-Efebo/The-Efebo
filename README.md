@@ -1,5 +1,5 @@
 <div align = "center">
-      <h1 >🎓 Enthusiastic of Computer Science 💻.<br></h1>
+      <h1 >🎓 Enthusiast of Computer Science 💻.<br></h1>
                     <img src="capa.gif">
 </div>  
 <div>
