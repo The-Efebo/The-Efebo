@@ -1,6 +1,6 @@
 <div align="center">
     <h1>🎓 Enthusiast of Computer Science 💻.<br></h1>
-    <img src="giphy.gif" width="700" height="300">
+    <img src="giphy.gif" width="750" height="350">
 </div>
 
 <div>
